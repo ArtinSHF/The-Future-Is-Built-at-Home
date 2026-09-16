@@ -1,6 +1,6 @@
 # The Future Is Built at Home 🏡❤️
 
-<img width="1861" height="927" alt="Screenshot" src="https://github.com/user-attachments/assets/YOUR-SCREENSHOT-ID" />
+<img width="1915" height="897" alt="Screenshot" src="https://github.com/user-attachments/assets/185dacae-27fe-4b64-90c6-caaaf4df39eb" />
 
 ---
 
@@ -14,7 +14,7 @@ Rather than presenting family life as a perfect or unrealistic ideal, the websit
 
 The website can be deployed as a completely static site using platforms such as Vercel, Netlify, or GitHub Pages.
 
-**Live site:** https://YOUR-SITE.vercel.app
+**Live site:** the-future-is-built-at-home.vercel.app
 
 ## 🏡 About the Project
 
