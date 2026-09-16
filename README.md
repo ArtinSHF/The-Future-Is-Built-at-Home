@@ -14,7 +14,7 @@ Rather than presenting family life as a perfect or unrealistic ideal, the websit
 
 The website can be deployed as a completely static site using platforms such as Vercel, Netlify, or GitHub Pages.
 
-**Live site:** the-future-is-built-at-home.vercel.app
+**Live site:** (the-future-is-built-at-home.vercel.app)
 
 ## 🏡 About the Project
 
